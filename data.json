@@ -1,0 +1,139 @@
+{
+    "Award1": [
+        {
+          "id": 1,
+          "title": "조선일보",
+          "desc": " 압도적인 무대로 관객을 빨아들인다.\n5년 제작기간이 헛되지 않았음을\n증명하는 장업한 무대미술"
+        },
+        {
+          "id": 2,
+          "title": "국민일보",
+          "desc": "베일벗은 '웃는 남자'\n미치도록 매혹적인\n그와 함께하는 황홀경"
+        }
+    ],
+    "Award2": [
+        {
+          "id": 1,
+          "title": "뉴시스",
+          "desc": "웰메이드 뮤지컬의 탄생!\n눈부셨고, 귀는 황홀했으며,\n마음은 어릿했다."
+        },
+        {
+          "id": 2,
+          "title": "국민일보",
+          "desc": "탄탄한 서사와 환상적인 무대,\n중독성 강한 음악까지\n한국 창작 뮤지컬사에 한 획을 그은 작품"
+        }
+    ],
+
+     "Actor": [
+        {
+            "id": 1,
+            "image": "assets/img/sec3_img01.jpg",
+            "name": "박효신",
+            "link": "자세히보기"
+        },
+        {
+            "id": 2,
+            "image": "assets/img/sec3_img03.jpg",
+            "name": "박은태",
+            "link": "자세히보기"
+        },
+        {
+            "id": 3,
+            "image": "assets/img/sec3_img02.jpg",
+            "name": "박강현",
+            "link": "자세히보기"
+        }
+    ],
+
+    "Poster1": [
+        {
+            "id": 1,
+            "image": "assets/img/mu1.jpg",
+            "title": "웃는남자",
+            "desc": "2022 THE MAN WHO LAUGHS",
+            "link": "MORE"
+        },
+        {
+            "id": 2,
+            "image": "assets/img/mu2.jpg",
+            "title": "마타하리",
+            "desc": "2022 MATA HARI",
+            "link": "MORE"
+        },
+        {
+            "id": 3,
+            "image": "assets/img/mu5.jpg",
+            "title": "레베카",
+            "desc": "2022 REBECCA",
+            "link": "MORE"
+        },
+        {
+            "id": 4,
+            "image": "assets/img/mu6.jpg",
+            "title": "팬텀",
+            "desc": "2022 PHANTOM",
+            "link": "MORE"
+        }
+    ],
+    
+    "Poster2": [
+        {
+            "id": 1,
+            "image": "assets/img/mu8.jpg",
+            "title": "몬테크리스토",
+            "desc": "2022 MONTE CRISTO",
+            "link": "MORE"
+        },
+        {
+            "id": 2,
+            "image": "assets/img/mu7.jpg",
+            "title": "모차르트",
+            "desc": "2022 MOZART!",
+            "link": "MORE"
+        },
+        {
+            "id": 3,
+            "image": "assets/img/mu4.jpg",
+            "title": "엑스칼리버",
+            "desc": "2022 XCALIBUR",
+            "link": "MORE"
+        },
+        {
+            "id": 4,
+            "image": "assets/img/mu3.jpg",
+            "title": "프리다",
+            "desc": "2022 FRIDA",
+            "link": "MORE"
+        }
+    ],
+
+    "youtube": [
+        {
+            "id": 1,
+            "title": "웃는 남자 유튜브",
+            "desc": "웃는 남자 배우들의 무대인사 커튼 콜",
+            "link": "바로가기"
+        }
+      ],
+
+      "Story": [
+        {
+            "id": 1,
+            "desc": "기이하게 찢긴 입, 기형의 모습이지만, 관능적인 젊은 청년. 지울 수 없는 영원한 미소 뒤엔 다른 사람과 똑같이 꿈을 꾸는 영혼이 있다.",
+            "simple": "그윈플렌",
+            "link": "바로가기"
+        },
+        {
+            "id": 2,
+            "desc": "순백의 여린 마음을 갖고 있는 천사 같은 존재. 눈에는 빛이 가득하나, 앞을 보지 못한다. 눈이 아닌 영혼으로 그윈플렌을 바라보며 마음의 상처를 보듬어 준다.",
+            "simple": "우르수스",
+            "link": "바로가기"
+        },
+        {
+            "id": 3,
+            "desc": "17세기 유럽의 어딘가, 눈보라를 헤치고 우르수스(제라르 드 빠르디유)가 살고 있는 집을 두 고아가 찾아온다. 유랑극단 공연자인 우르수스는 기이하게 찢어진 그윈플렌(마크-앙드레 그롱당)의 입을 보고 깜짝 놀라지만, 두 아이를 불쌍히 여겨 그윈플렌과 눈이 먼 데아(크리스타 테레)를 자신의 아이들로 받아들인다.",
+            "simple": "데아",
+            "link": "바로가기"
+        }
+      ]
+}
